@@ -8,7 +8,7 @@ A real life gif of me coding 😅
 
 ### About Me
 - 🔭 I’m currently working on work. I have a toddler at home so realistically most of my development work these days are work related, otherwise working on being an #awesomemom
-- 💬 Ask me about 
+- 💻 I love Frontend development work especially React, CSS, Graphiql, etc. But also love the design aspect and am working on upping my grapical design game
 - 📫 How to reach me: thecodingchica@gmail.com
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I can speak Dutch and Spanish & currently attempting to learn Arabic.
