@@ -1,6 +1,6 @@
 # Patricia Ellia
 
-👋 Hey, I'm Patricia. I am a Software Engineer II at [M1](https://m1.com/), a Fintech company based out of Chicago. I made a career change about 3 years ago into Software Engineering, and absolutely love it. No doubt in my mind it was the right move for me. Before becoming a software engineer, I had a whole career working as a Product & Operations Manager, leading large global teams, at NielsenIQ (formerly Nielsen). Despite loving the people I worked with, it just wasn't the right day  to day fit for me. 
+👋 Hey, I'm Patricia. I am a Senior Software Engineer at [M1](https://m1.com/), a Fintech company based out of Chicago. I made a career change about 3 years ago into Software Engineering, and absolutely love it. No doubt in my mind it was the right move for me. Before becoming a software engineer, I had a whole career working as a Product & Operations Manager, leading large global teams, at NielsenIQ (formerly Nielsen). Despite loving the people I worked with, it just wasn't the right day to day fit for me. 
 
 A real life gif of me coding 😅
 
@@ -8,7 +8,7 @@ A real life gif of me coding 😅
 
 ### About Me
 - 🔭 I’m currently working on work. I have a toddler at home so realistically most of my development work these days are work related, otherwise working on being an #awesomemom
-- 💻 I love Frontend development work especially React, CSS, Graphiql, etc. But also love the design aspect and am working on upping my grapical design game
+- 💻 I love Frontend development work especially React, CSS, Graphiql, etc. But also love the design aspect and am working on upping my design game and love reading about UI/UX 
 - 📫 How to reach me: thecodingchica@gmail.com
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I can speak Dutch and Spanish & currently attempting to learn Arabic.
